@@ -137,3 +137,4 @@ public class FundamentalsTrainingTest extends MainTest {
         Assert.assertEquals(0, FundamentalsTraining.whichValueIsThis(0, 1, false));
     }
 }
+
