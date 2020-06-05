@@ -6,7 +6,7 @@ import java.lang.reflect.Method;
 
 public class StringTrainingTest extends MainTest {
 
-    @Test
+  @Test
     public void testJoin() {
         StringTraining obj = new StringTraining();
         String methodName = "join";
@@ -279,4 +279,6 @@ public class StringTrainingTest extends MainTest {
             e.printStackTrace();
         }
     }
+
+
 }
